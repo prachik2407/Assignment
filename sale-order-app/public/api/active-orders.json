@@ -1,0 +1,5 @@
+[
+    { "id": 1, "customerName": "John Doe", "price": "$100", "lastModified": "2024-06-01" },
+    { "id": 2, "customerName": "Jane Smith", "price": "$150", "lastModified": "2024-06-02" }
+  ]
+  
