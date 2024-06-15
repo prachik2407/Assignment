@@ -31,3 +31,6 @@ the api calls should be mimicked.
 4. React Hook Form for managing form state
 5. Chakra-UI (component UI Library) for styling
 6. Chakra MultiSelect (or any other that’s compatible with Chakra-UI)
+   
+Video (Google Drive link) of the working application:
+https://drive.google.com/file/d/1-fZrauZlelwDqPZY0UZZfvavqqPbJMzV/view?usp=sharing
